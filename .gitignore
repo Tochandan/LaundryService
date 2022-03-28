@@ -5,3 +5,6 @@ client/.git
 server/.git
 client/.gitignore
 server/.gitignore
+client
+server
+.gitignore
